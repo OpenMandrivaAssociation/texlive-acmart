@@ -1,6 +1,6 @@
 Name:		texlive-acmart
 Version:	64967
-Release:	1
+Release:	2
 Summary:	Class for typesetting publications of ACM
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/acmart
