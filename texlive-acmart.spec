@@ -1,5 +1,5 @@
 Name:		texlive-acmart
-Version:	68950
+Version:	69242
 Release:	1
 Summary:	Class for typesetting publications of ACM
 Group:		Publishing
