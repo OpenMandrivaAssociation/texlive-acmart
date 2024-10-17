@@ -3,7 +3,7 @@ Version:	72113
 Release:	1
 Summary:	Class for typesetting publications of ACM
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/acmart
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/acmart
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/acmart.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/acmart.doc.r%{version}.tar.xz
